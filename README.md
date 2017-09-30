@@ -17,4 +17,4 @@ To see code from other chapters, see the [table of contents](https://github.com/
 
 - Tony Gaitatzis (<backupbrain@gmail.com>)
 
-![BookCover](https://github.com/BluetoothLowEnergyInCppWithnRFx/Book/blob/master/Bluetooth%20Low%20Energy%20in%20CC%2B%2B%20with%20nRFx%20Cover.png)
+![BookCover](https://github.com/BluetoothLowEnergyInCppWithnRFx/Book/blob/master/Bluetooth%20Low%20Energy%20in%20C%2B%2B%20with%20nRFx%20Cover.png)
